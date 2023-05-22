@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shamish Shukla</h1>
 <h3 align="center">A passionate Full Stack developer from Bihar,India</h3>
+<img width="400px" height="200px" align="center" src = "C:/Users/ASUS/Pictures/png-clipart-web-development-programmer-computer-programming-mobile-app-development-design-web-design-text-thumbnail.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamish-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="shamish-shukla" /> </p>
 
