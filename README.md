@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamish Shukla</h1>
 <h3 align="center">A passionate Full Stack developer from Bihar,India</h3>
-<img align="center" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dprogrammer&psig=AOvVaw0pMMXJ4fidxLdBgAYiGMxf&ust=1684825433338000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiOtYCuiP8CFQAAAAAdAAAAABAE" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamish-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="shamish-shukla" /> </p>
 
